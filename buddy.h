@@ -36,6 +36,8 @@
 //
 // This is licensed under the MIT License.
 
+#include <stdlib.h>
+
 typedef struct BuddyBuffer BuddyBuffer;
 typedef struct BuddyNode BuddyNode;
 
